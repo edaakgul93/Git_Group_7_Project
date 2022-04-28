@@ -1,3 +1,5 @@
+package eda;
+
 import java.util.Scanner;
 
 public class TC001 {
